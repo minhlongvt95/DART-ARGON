@@ -1,0 +1,8 @@
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\bin\Release\netstandard2.0\Dna.Framework.deps.json
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\bin\Release\netstandard2.0\Dna.Framework.dll
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\bin\Release\netstandard2.0\Dna.Framework.pdb
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\obj\Release\netstandard2.0\Dna.Framework.AssemblyInfoInputs.cache
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\obj\Release\netstandard2.0\Dna.Framework.AssemblyInfo.cs
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\obj\Release\netstandard2.0\Dna.Framework.dll
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\obj\Release\netstandard2.0\Dna.Framework.pdb
+D:\project_visual\WPF_Tutorials_AngelSix_Source\Dna.Framework\obj\Release\netstandard2.0\Dna.Framework.csprojAssemblyReference.cache
